@@ -27,5 +27,5 @@ console.log(arr3);
 
 //Write a program to remove duplicates from the following array.Console the array without duplicates, and console another array that only contains the duplicates
 let arr = ["boy", "man", "girl",  
-          "school", "girl", "woman"];
+          "school","girl","woman"]
           
