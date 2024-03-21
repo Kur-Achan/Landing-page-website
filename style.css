@@ -13,3 +13,10 @@
 .footer{
     display: flex;
 }
+.services{
+    display: flex;
+    padding-left: 5%;
+    gap: 5%;
+}@media only screen and (minwidth: 360px) {
+    
+}
